@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/az-python-automation/v17
+/.vs/az-python-automation/FileContentIndex
+/.vs
